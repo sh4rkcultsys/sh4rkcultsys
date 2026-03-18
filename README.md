@@ -28,3 +28,4 @@ Check out my socials! It's also on the links stuff!
 </a>
 <p align="center">
   <img height="400" width="450" src="https://github.com/sh4rkcultsys/holder/blob/3ce1db61e07c2e57f82c0f3b77361336469de408/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjExMjgtNDQucG5n.png"/>   <img height="400" width="450" src="https://github.com/sh4rkcultsys/holder/blob/3ce1db61e07c2e57f82c0f3b77361336469de408/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjExMjgtNDQucG5n.png"/>
+</a>
