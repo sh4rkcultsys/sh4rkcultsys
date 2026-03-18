@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" width="500" src="https://orig00.deviantart.net/9d1e/f/2017/206/b/8/moon_divider_by_catspy69-dbhmcdo.png"/>
+  <img height="80" width="80" src="https://github.com/sh4rkcultsys/holder/blob/ed0be4868b3eaeb0a106360c00c76f6f153858ae/Screenshot%202026-03-16%2010.53.47%20PM%20(1).png"/>
 </a>
 
 <p align="center">
