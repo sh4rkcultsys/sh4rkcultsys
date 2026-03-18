@@ -27,5 +27,5 @@ Check out my socials! It's also on the links stuff!
   <img height="50" src="https://github.com/sh4rkcultsys/holder/blob/17ba7b5ce06f17f2d240f3c6a3ab3b5f778abfc9/strawpage-20241011175558.png"/>
 </a>
 <p align="center">
-  <img height="400" width="400" src="https://github.com/sh4rkcultsys/holder/blob/3ce1db61e07c2e57f82c0f3b77361336469de408/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjExMjgtNDQucG5n.png"/>
+  <img height="400" width="400" src="https://github.com/sh4rkcultsys/sh4rkcultsys/blob/d2db9a19e510c9ac7ab4a88c65eb88a037615e9f/1c699d840d410541b4a315794e82de45.jpg"/>
 </a>
