@@ -3,15 +3,9 @@
 </a>
 
 <p align="center">
-hoiyee ! I'm Nari! 
+NariNari! X3
 <p align="center">
-I go by mirrored pronouns ! Yer Pronouns are mine now wowow
-<p align="center">
-Forsaken , Dw , Tfc , Ppt are some of the things I cosplay
-<p align="center">
-C+H and Int with me freely ! I don't bite unless you want it hehe
-<p align="center">
-Check out my socials! It's also on the links stuff!
+Reworking, may take a while hmm hmm hmm
 
   <p align="center">
 <a href="https://narinari.atabook.org/">
